@@ -1,0 +1,3 @@
+﻿  Megafon_task.cpp
+C:\Users\iskan\source\repos\Megafon_task\Megafon_task.cpp(40,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Megafon_task.vcxproj -> C:\Users\iskan\source\repos\Megafon_task\Debug\Megafon_task.exe
